@@ -1,1 +1,1 @@
-#Odin Recipies: A website for recipes
+# Odin Recipies: A website for recipes
